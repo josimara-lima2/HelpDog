@@ -4,6 +4,7 @@ const TextContainer = () => {
    <div className="container">
 
      <h1>Ajude quem precisa de ajuda</h1>
+    
    <h4>Com apenas 1 real você pode me ajudar a alimentar cães de ruas</h4>
  <div className="buttons">
  <button className="contribuir">Contribuir</button>
