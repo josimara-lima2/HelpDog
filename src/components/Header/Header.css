@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&display=swap');
+header{
+  color:#3c184e;
+  font-family: 'Rubik', sans-serif;
+  display:flex;
+  margin-left: 120px;
+  font-weight: 500;
+  
+}
+header img{
+  margin-top: 12px;
+  margin-left: 30px;
+  margin-right: 10px;
+  
+}
